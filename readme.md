@@ -49,6 +49,7 @@ Conteúdo gratuito onde é possível iniciar os estudos sem ter que gastar nada.
 - [Comece por aqui](#comece-por-aqui)
 - [Links Úteis](#links-úteis)
 - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
+- [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
 - :memo: [Licença](#memo-licença)
 
 <br />
