@@ -13,7 +13,7 @@ Até o momento presente onde isto foi escrito a AWS disponibiliza quatro tipos d
 
 2. **Network Load Balancers (NLB):** É específico para redes, atua na camada de transporte (*Layer 4*) com o protocolo TCP.
 
-3. **Gateway Load Balancers (GWLB):** - 
+3. **Gateway Load Balancers (GWLB):** Atua na camada de rede (*Layer 3*) com o protocolo IP. 
 
 4. **Classic Load Balancers:** É um load balancer legado e hoje a AWS não recomenda a sua utilização.
 
