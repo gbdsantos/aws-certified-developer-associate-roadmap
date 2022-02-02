@@ -54,7 +54,7 @@ Conteúdo gratuito onde é possível iniciar os estudos sem ter que gastar nada.
 - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md)
 - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
 - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
-- [Lambda](ttps://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
+- [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
 - :memo: [Licença](#memo-licença)
 
 <br />
