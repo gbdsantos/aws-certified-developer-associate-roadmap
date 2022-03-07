@@ -19,18 +19,37 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 ## :pushpin: Índice
 
+- :pushpin: [Índice por domínios do exame](#pushpin-índice-por-domínios-do-exame)
 - [Sobre o exame](#sobre-o-exame)
 - [Comece por aqui](#comece-por-aqui)
-- [Links Úteis](#links-úteis)
-- [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
-- [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
-- [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
-- [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
-- [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
-- [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md)
-- [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
+
+- :anchor: [Links Úteis](#anchor-links-úteis)
+- **Serviços AWS**
+  - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
+  - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
+  - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
+  - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
+  - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/rds.md)
+  - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md)
+  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
 
 - :memo: [Licença](#memo-licença)
+
+<br />
+
+## :pushpin: Índice por domínios do exame
+
+:warning: Os serviços não estão organizados em ordem de importância mas em em ordem alfabética  e os domínios estão com o pesos de importância na prova.
+
+- **Domínio 1: Implantação (22%)**
+- **Domínio 2: Segurança (26%)**
+- **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
+ - **Domínio 4: Refatoração (10%)**
+ - **Domínio 5: Monitoramento e resolução de problemas (12%)**
+
+> 🚧 WIP - Em construção
 
 <br />
 
@@ -62,7 +81,7 @@ Alguns são cursos em inglês porém eles possuem legenda em português
 
 <br />
 
-## Links Úteis
+## :anchor: Links Úteis
 
 - [AWS Certified Developer - Associate: Saiba mais sobre esta certificação e os recursos da AWS que podem ajudá-lo a se preparar](https://aws.amazon.com/pt/certification/certified-developer-associate/)
 - [Guia do Exame - AWS Certified Developer - Associate (DVA-C01) ](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
