@@ -30,7 +30,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
   - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
-  - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/rds.md)
+  - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md)
   - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md)
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
 
