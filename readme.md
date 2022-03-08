@@ -25,6 +25,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 - :anchor: [Links Úteis](#anchor-links-úteis)
 - **Serviços AWS**
+  - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md)
   - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
   - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
   - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
