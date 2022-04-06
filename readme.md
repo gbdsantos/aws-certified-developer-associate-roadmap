@@ -17,6 +17,26 @@
 
 O objetivo deste repositório é conter resumo dos tópicos com foco para a certificação da Amazon AWS Certified Developer Associate (DVA-C01) com ênfase para falantes da língua portuguesa (Brasil).
 
+## :pushpin: Índice por domínios do exame
+
+:warning: Os serviços não estão organizados/sequenciados em ordem de importância mas sim em ordem alfabética. Os domínios estão com o pesos de importância na prova.
+
+- **Domínio 1: Implantação (22%)**
+   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md) 
+   - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md) 
+ 
+- **Domínio 2: Segurança (26%)**
+- **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
+  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
+  
+ - **Domínio 4: Refatoração (10%)**
+ - **Domínio 5: Monitoramento e resolução de problemas (12%)**
+
+> 🚧 WIP - (Work in Progress / Em construção)
+
+<br />
+
 ## :pushpin: Índice
 
 - :pushpin: [Índice por domínios do exame](#pushpin-índice-por-domínios-do-exame)
@@ -29,6 +49,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
   - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md)
+  - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md)
   - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
   - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
@@ -37,21 +58,6 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
 
 - :memo: [Licença](#memo-licença)
-
-<br />
-
-## :pushpin: Índice por domínios do exame
-
-:warning: Os serviços não estão organizados em ordem de importância mas em em ordem alfabética e os domínios estão com o pesos de importância na prova.
-
-- **Domínio 1: Implantação (22%)**
-- **Domínio 2: Segurança (26%)**
-- **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
-  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
- - **Domínio 4: Refatoração (10%)**
- - **Domínio 5: Monitoramento e resolução de problemas (12%)**
-
-> 🚧 WIP - Em construção
 
 <br />
 
