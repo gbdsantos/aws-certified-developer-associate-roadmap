@@ -28,6 +28,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md)
   - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
   - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
+  - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md)
   - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
   - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
@@ -41,7 +42,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 ## :pushpin: Índice por domínios do exame
 
-:warning: Os serviços não estão organizados em ordem de importância mas em em ordem alfabética  e os domínios estão com o pesos de importância na prova.
+:warning: Os serviços não estão organizados em ordem de importância mas em em ordem alfabética e os domínios estão com o pesos de importância na prova.
 
 - **Domínio 1: Implantação (22%)**
 - **Domínio 2: Segurança (26%)**
