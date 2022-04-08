@@ -1,9 +1,10 @@
-<div style="display: flex; align-items: center;">
-	<img src="./img/aws-icons/aws-CodeDeploy.png" alt="aws-codedeploy-icon" style="border-radius: 15%; height:40px; width:40px;" /> 
-	<h1 style="border-bottom: none; margin-left: 10px;"> 
-		CodeDeploy
-	</h1>
-</div>
+<p align="center">
+	<img src="./img/aws-icons/aws-CodeDeploy.png" alt="aws-codedeploy-icon" style="height:150px; width:150px;" /> 
+  <br />
+	<h1 align="center" style="border: inherit;">CodeDeploy</h1>
+</p>	
+
+<br />
 
 ## :pushpin: Índice
 
