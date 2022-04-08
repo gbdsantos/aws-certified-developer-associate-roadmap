@@ -24,6 +24,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 - **Domínio 1: Implantação (22%)**
    - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
    - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md)
+   - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "AWS CodeDeploy")   
    - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md) 
    - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md) 
    - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md) 
@@ -52,6 +53,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
    - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
    - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md) 
+   - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "AWS CodeDeploy")    
    - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md)    
   - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md)
