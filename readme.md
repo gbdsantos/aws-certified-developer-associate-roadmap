@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    Resumo do conteúdo focado para o exame da certificação AWS Certified Developer - Associate
+    Guia Definitivo para o exame da certificação AWS Certified Developer - Associate
 </h1>
 
 <div align="center">
@@ -23,24 +23,24 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 - **Domínio 1: Implantação (22%)**  
   - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")
-  - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md)
-  - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
-  - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md)
-  - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "AWS CodeDeploy")
+  - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md "Gerenciamento de artefatos seguro, escalável e econômico para desenvolvimento de software")
+  - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md "Compile e Teste Código")
+  - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md "Armazenar código em repositórios Git privados")
+  - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "Automatizar implantações de código")
   - [CodeGuru](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeGuru.md "Recomendações inteligentes para criar e executar aplicativos modernos")   
-  - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md) 
-  - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md)    
-  - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md) 
-  - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md) 
+  - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md "Release de software usando entrega contínua") 
+  - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")    
+  - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
+  - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md "Execute e gerence aplicativos Web") 
  
 - **Domínio 2: Segurança (26%)**
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
-  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
-  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md "Execute código sem se preocupar com a infraestrutura")
+  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md "Armazenamento escalável na nuvem")
   
 - **Domínio 4: Refatoração (10%)**
 - **Domínio 5: Monitoramento e resolução de problemas (12%)**
-  - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md) 
+  - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos") 
 
 > 🚧 WIP - (Work in Progress / Em construção)
 
@@ -54,26 +54,26 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 - :anchor: [Links Úteis](#anchor-links-úteis)
 - **Serviços AWS**
-  - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md)
+  - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md "Serviço de banco de dados relacional gerenciado")
   - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")  
-  - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
-  - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md)  
-  - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md)
-  - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
-  - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md) 
-  - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "AWS CodeDeploy") 
+  - [CloudFront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Cloudfront.md "Global Content Delivery Network")
+  - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos")  
+  - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md "Gerenciamento de artefatos seguro, escalável e econômico para desenvolvimento de software") 
+  - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md "Compile e Teste Código")
+  - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md "Armazenar código em repositórios Git privados") 
+  - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "Automatizar implantações de código") 
   - [CodeGuru](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeGuru.md "Recomendações inteligentes para criar e executar aplicativos modernos")     
-  - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md)  
-  - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md)      
-  - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md)
-  - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md)
-  - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md)
-  - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md)
-  - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md)
-  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
-  - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md)
-  - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md)
-  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
+  - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md "Release de software usando entrega contínua")  
+  - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")      
+  - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md "Servidores virtuais na nuvem")
+  - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
+  - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md "Execute e gerence aplicativos Web")
+  - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md "Funcionalidade do EC2")
+  - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md "Gerencie o acesso aos recursos da AWS")
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md "Execute código sem se preocupar com a infraestrutura")
+  - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
+  - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md "DNS escalável e registro de nome de domínio")
+  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md "Armazenamento escalável na nuvem")
 
 - :memo: [Licença](#memo-licença)
 
@@ -81,7 +81,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 ## Sobre o exame
 
-O exame AWS Certified Developer - Associate, tem como destino para aqueles que tenham um ou mais anos de experiência prática no desenvolvimento, implantação e manutenção de aplicativos baseados na nuvem sendo executados na infraestrutura AWS.
+O exame **AWS Certified Developer - Associate**, tem como destino para aqueles que tenham um ou mais anos de experiência prática no desenvolvimento, implantação e manutenção de aplicativos baseados na nuvem sendo executados na infraestrutura AWS.
 Você pode ler na íntegra sobre o exame e seus requisitos [aqui](https://aws.amazon.com/pt/certification/certified-developer-associate/), há também outros materiais como por exemplo o [guia do exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf), simulado para o exame, treinamento digital e etc, tudo oficial da AWS.
 O exame recentemente recebeu suporte para ser realizado no idioma português (Brasil).
 
