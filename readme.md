@@ -41,6 +41,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 - **Domínio 4: Refatoração (10%)**
 - **Domínio 5: Monitoramento e resolução de problemas (12%)**
   - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos") 
+  - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Barramento de eventos sem servidor que conecta dados de aplicativos de seus próprios aplicativos, SaaS e serviço da AWS")  
 
 > 🚧 WIP - (Work in Progress / Em construção)
 
@@ -69,7 +70,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
   - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md "Execute e gerence aplicativos Web")
   - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ELB.md "Funcionalidade do EC2")
-  - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Funcionalidade do EC2")  
+  - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Barramento de eventos sem servidor que conecta dados de aplicativos de seus próprios aplicativos, SaaS e serviço da AWS")  
   - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/IAM.md "Gerencie o acesso aos recursos da AWS")
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
   - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
