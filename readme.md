@@ -38,8 +38,9 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md)
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md)
   
- - **Domínio 4: Refatoração (10%)**
- - **Domínio 5: Monitoramento e resolução de problemas (12%)**
+- **Domínio 4: Refatoração (10%)**
+- **Domínio 5: Monitoramento e resolução de problemas (12%)**
+  - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md) 
 
 > 🚧 WIP - (Work in Progress / Em construção)
 
@@ -56,6 +57,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md)
   - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")  
   - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
+  - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md)  
   - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md)
   - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
   - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md) 
