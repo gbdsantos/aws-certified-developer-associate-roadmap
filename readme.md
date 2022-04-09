@@ -35,8 +35,8 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
  
 - **Domínio 2: Segurança (26%)**
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
-  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md "Execute código sem se preocupar com a infraestrutura")
-  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md "Armazenamento escalável na nuvem")
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
+  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
   
 - **Domínio 4: Refatoração (10%)**
 - **Domínio 5: Monitoramento e resolução de problemas (12%)**
@@ -65,15 +65,16 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [CodeGuru](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeGuru.md "Recomendações inteligentes para criar e executar aplicativos modernos")     
   - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md "Release de software usando entrega contínua")  
   - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")      
-  - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/2-EC2.md "Servidores virtuais na nuvem")
+  - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EC2.md "Servidores virtuais na nuvem")
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
   - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md "Execute e gerence aplicativos Web")
-  - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/3-ELB.md "Funcionalidade do EC2")
-  - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/1-IAM.md "Gerencie o acesso aos recursos da AWS")
-  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/7-Lambda.md "Execute código sem se preocupar com a infraestrutura")
+  - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ELB.md "Funcionalidade do EC2")
+  - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Funcionalidade do EC2")  
+  - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/IAM.md "Gerencie o acesso aos recursos da AWS")
+  - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
   - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
-  - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/4-Route-53.md "DNS escalável e registro de nome de domínio")
-  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/5-S3.md "Armazenamento escalável na nuvem")
+  - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Route53.md "DNS escalável e registro de nome de domínio")
+  - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
 
 - :memo: [Licença](#memo-licença)
 
