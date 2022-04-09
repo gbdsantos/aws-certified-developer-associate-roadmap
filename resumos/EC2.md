@@ -9,6 +9,7 @@
   - [Tipos de volume EBS](#tipos-de-volume-ebs)
 - [AMI](#ami)
 - [Instance Store](#instance-store)
+- [ASG](#asg)
 
 <br />
 
