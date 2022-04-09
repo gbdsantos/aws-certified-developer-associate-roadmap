@@ -22,6 +22,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 :warning: Os serviços não estão organizados/sequenciados em ordem de importância mas sim em ordem alfabética. Os domínios estão com o pesos de importância na prova.
 
 - **Domínio 1: Implantação (22%)**  
+  - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")
   - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md)
   - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
   - [CodeCommit](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeCommit.md)
@@ -53,6 +54,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 - :anchor: [Links Úteis](#anchor-links-úteis)
 - **Serviços AWS**
   - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md)
+  - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")  
   - [Cloudfront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/6-Cloudfront.md)
   - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md)
   - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md)
