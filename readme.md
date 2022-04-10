@@ -42,6 +42,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 - **Domínio 5: Monitoramento e resolução de problemas (12%)**
   - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos") 
   - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Barramento de eventos sem servidor que conecta dados de aplicativos de seus próprios aplicativos, SaaS e serviço da AWS")  
+  - [X-Ray](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/X-Ray.md "Analise e depure seus aplicativos")
 
 > 🚧 WIP - (Work in Progress / Em construção)
 
@@ -76,6 +77,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
   - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Route53.md "DNS escalável e registro de nome de domínio")
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
+  - [X-Ray](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/X-Ray.md "Analise e depure seus aplicativos")
 
 - :memo: [Licença](#memo-licença)
 
