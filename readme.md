@@ -40,6 +40,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   
 - **Domínio 4: Refatoração (10%)**
 - **Domínio 5: Monitoramento e resolução de problemas (12%)**
+  - [CloudTrail](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudTrail.md "Acompanhe a atividade do usuário e o uso da API")
   - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos") 
   - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Barramento de eventos sem servidor que conecta dados de aplicativos de seus próprios aplicativos, SaaS e serviço da AWS")  
   - [X-Ray](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/X-Ray.md "Analise e depure seus aplicativos")
@@ -59,6 +60,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md "Serviço de banco de dados relacional gerenciado")
   - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")  
   - [CloudFront](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Cloudfront.md "Global Content Delivery Network")
+  - [CloudTrail](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudTrail.md "Acompanhe a atividade do usuário e o uso da API")  
   - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos")  
   - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md "Gerenciamento de artefatos seguro, escalável e econômico para desenvolvimento de software") 
   - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md "Compile e Teste Código")
