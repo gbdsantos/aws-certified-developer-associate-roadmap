@@ -37,6 +37,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
+  - [SNS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SNS.md "Tópicos de mensagens gerenciadas do SNS para Pub/Sub")  
   - [SQS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SQS.md "Filas de mensagens gerenciadas pelo SQS")   
   
 - **Domínio 4: Refatoração (10%)**
@@ -80,6 +81,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
   - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Route53.md "DNS escalável e registro de nome de domínio")
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
+  - [SNS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SNS.md "Tópicos de mensagens gerenciadas do SNS para Pub/Sub")    
   - [SQS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SQS.md "Filas de mensagens gerenciadas pelo SQS")     
   - [X-Ray](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/X-Ray.md "Analise e depure seus aplicativos")
 
