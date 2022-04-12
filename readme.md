@@ -35,6 +35,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
  
 - **Domínio 2: Segurança (26%)**
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
+  - [Kinesis](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Kinesis.md "Trabalhar com dados de streaming em tempo real")
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
   - [SNS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SNS.md "Tópicos de mensagens gerenciadas do SNS para Pub/Sub")  
@@ -77,6 +78,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [ELB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ELB.md "Funcionalidade do EC2")
   - [EventBridge](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EventBridge.md "Barramento de eventos sem servidor que conecta dados de aplicativos de seus próprios aplicativos, SaaS e serviço da AWS")  
   - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/IAM.md "Gerencie o acesso aos recursos da AWS")
+  - [Kinesis](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Kinesis.md "Trabalhar com dados de streaming em tempo real")  
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
   - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
   - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Route53.md "DNS escalável e registro de nome de domínio")
