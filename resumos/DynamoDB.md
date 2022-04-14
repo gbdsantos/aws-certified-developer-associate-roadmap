@@ -167,3 +167,8 @@ Com **índices secundários locais** você pode consultar dados na tabela usando
 ## :books: Referências
 
 Para uma compreensão mais profunda sobre DynamoDB recomendo a leitura da documentação oficial, os links estão abaixo.
+
+- [O que é o Amazon DynamoDB?](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduction.html)
+- [Modo de capacidade de leitura/gravação](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.ReadWriteCapacityMode.html)
+- [Consistência de leituras](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.ReadConsistency.html)   
+- [Índices secundários](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html#HowItWorks.CoreComponents.SecondaryIndexes)
