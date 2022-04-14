@@ -35,6 +35,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
  
 - **Domínio 2: Segurança (26%)**
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
+  - [DynamoDB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/DynamoDB.md "Banco de dados NoSQL gerenciado")
   - [Kinesis](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Kinesis.md "Trabalhar com dados de streaming em tempo real")
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
@@ -71,7 +72,8 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [CodeDeploy](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeDeploy.md "Automatizar implantações de código") 
   - [CodeGuru](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeGuru.md "Recomendações inteligentes para criar e executar aplicativos modernos")     
   - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md "Release de software usando entrega contínua")  
-  - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")      
+  - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")  
+  - [DynamoDB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/DynamoDB.md "Banco de dados NoSQL gerenciado")      
   - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EC2.md "Servidores virtuais na nuvem")
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
   - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md "Execute e gerence aplicativos Web")
