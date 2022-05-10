@@ -22,6 +22,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 :warning: Os serviços não estão organizados/sequenciados em ordem de importância mas sim em ordem alfabética. Os domínios estão com o pesos de importância na prova.
 
 - **Domínio 1: Implantação (22%)**  
+  - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
   - [CloudFormation](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudFormation.md "Criar e gerenciar recursos com modelos")
   - [CodeArtifact](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeArtifact.md "Gerenciamento de artefatos seguro, escalável e econômico para desenvolvimento de software")
   - [CodeBuild](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeBuild.md "Compile e Teste Código")
@@ -35,6 +36,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
  
 - **Domínio 2: Segurança (26%)**
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
+  - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
   - [DynamoDB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/DynamoDB.md "Banco de dados NoSQL gerenciado")
   - [Kinesis](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Kinesis.md "Trabalhar com dados de streaming em tempo real")
   - [Lambda](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Lambda.md "Execute código sem se preocupar com a infraestrutura")
@@ -43,6 +45,8 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [SQS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SQS.md "Filas de mensagens gerenciadas pelo SQS")   
   
 - **Domínio 4: Refatoração (10%)**
+  - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
+
 - **Domínio 5: Monitoramento e resolução de problemas (12%)**
   - [CloudTrail](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudTrail.md "Acompanhe a atividade do usuário e o uso da API")
   - [CloudWatch](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CloudWatch.md "Monitorar recursos e aplicativos") 
