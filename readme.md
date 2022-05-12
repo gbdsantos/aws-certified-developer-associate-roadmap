@@ -37,6 +37,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
 
 - **Domínio 2: Segurança (26%)**
   - [Cognito](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Cognito.md "Consumer Identity Management e credenciais da AWS para identidades federadas")
+  - [IAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/IAM.md "Gerencie o acesso aos recursos da AWS")
 
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
   - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
