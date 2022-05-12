@@ -36,6 +36,8 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [SAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SAM.md "Serverless Application Model")  
 
 - **Domínio 2: Segurança (26%)**
+  - [Cognito](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Cognito.md "Consumer Identity Management e credenciais da AWS para identidades federadas")
+
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
   - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
   - [DynamoDB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/DynamoDB.md "Banco de dados NoSQL gerenciado")
@@ -79,6 +81,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [CodeGuru](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeGuru.md "Recomendações inteligentes para criar e executar aplicativos modernos")     
   - [CodePipeline](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodePipeline.md "Release de software usando entrega contínua")  
   - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")  
+  - [Cognito](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Cognito.md "Consumer Identity Management e credenciais da AWS para identidades federadas")
   - [DynamoDB](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/DynamoDB.md "Banco de dados NoSQL gerenciado")      
   - [EC2](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/EC2.md "Servidores virtuais na nuvem")
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
