@@ -33,7 +33,8 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [CodeStar](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/CodeStar.md "Desenvolva, construa e implante aplicativos rapidamente")    
   - [ECS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/ECS.md "Maneira altamente segura, confiável e escalável de executar contêineres") 
   - [Elastic Beanstalk](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Elastic-Beanstalk.md "Execute e gerence aplicativos Web") 
- 
+  - [SAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SAM.md "Serverless Application Model")  
+
 - **Domínio 2: Segurança (26%)**
 - **Domínio 3: Desenvolvimento com os produtos da AWS (30%)**
   - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
@@ -90,6 +91,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [RDS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/RDS.md "Serviço de banco de dados relacional gerenciado")
   - [Route 53](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Route53.md "DNS escalável e registro de nome de domínio")
   - [S3](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/S3.md "Armazenamento escalável na nuvem")
+  - [SAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SAM.md "Serverless Application Model")  
   - [SNS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SNS.md "Tópicos de mensagens gerenciadas do SNS para Pub/Sub")    
   - [SQS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SQS.md "Filas de mensagens gerenciadas pelo SQS")     
   - [X-Ray](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/X-Ray.md "Analise e depure seus aplicativos")
