@@ -1,10 +1,17 @@
-# EC2
+<p align="center">
+	<img src="./img/aws-icons/aws-EC2.png" alt="aws-ec2-icon" style="height:150px; width:150px;" /> 
+  <br />
+	<h1 align="center">
+    EC2
+  </h1>
+</p>	
+
+<br />
 
 ## :pushpin: Índice
 
-- [EC2 Options](#ec2-options)
-- [Tipos de instâncias EC2](#tipos-de-ec2-instances)
-- [Valores de instâncias EC2](#valores-de-ec2-instances)
+- [Tipos de instâncias EC2](#tipos-de-instâncias-ec2)
+- [Opções de compra de instâncias do EC2](#opções-de-compra-de-instâncias-do-ec2)
 - [EBS Volume](#ebs-volume)
   - [Tipos de volume EBS](#tipos-de-volume-ebs)
 - [AMI](#ami)
@@ -13,30 +20,15 @@
 
 <br />
 
-EC2 é um acrônimo para o ***Elastic Compute Cloud***, é um serviço da web que fornece capacidade de computação redimensionável na nuvem.
+EC2 é uma sigla para o ***Elastic Compute Cloud***, é um serviço da web que fornece capacidade de computação redimensionável na nuvem.
 O serviço torna possível a criação de instâncias de máquinas virtuais para utilização, eliminando assim a necessidade de ser ter um *hardware* físico. Portanto sendo o hardware o nível de abstração.
 Este é um dos primeiros serviços que foi disponibilizado na AWS.
 
 Provavelmente a maior vantagem ao se usar EC2 é o custo, pois atualmente é muito caro você ter e manter uma infraestrutura própria aliado a isso tem sua facilidade de escabilidade, por exemplo aumento do número de máquinas (escabilidade horizontal) ou de aumento de recursos como aumento de memória ram e processamento (escabilidade vertical).
 
-Para uma compreensão mais profunda recomendo a leitura da documentação oficial do link abaixo.
-
-- :open_book: [Documentação Oficial - Amazon Elastic Compute Cloud (EC2)](https://docs.aws.amazon.com/pt_br/pt_br/AWSEC2/latest/WindowsGuide/concepts.html)
-
 <br />
 
-## EC2 Options
-
-- **On Demand:** Ligar ou desligar um *virtual machine* (VM) e pagar por hora/minuto/segundo. A cobrança é feita após utilização.
-- **Reserved:** Contrato com AWS entre 1~3 anos de uma máquina. A cobrança é feita antes da utilizando, por exemplo, você irá adquirir um contrato de 3 anos já será pago antecipadamente por todas as máquinas que serão disponibilizados por todo esse prazo.
-- **Spot:** Ou chamados de *Bid*, são para aplicações específicas que tem que ficar ligar por determinado período de tempo (ex: ficarem ligadas somente durante o horário comercial), tem um dimensionamento mais fixo de alocação de recursos (memória, processamento e armazenamento)
-- **Dedicated Hosts:** São máquinas/servidores físicos que são dedicados para você. São principalmente utilizados por exemplos por empresas do setor financeiro ou empresas que devem proteger muito o dados do seu cliente.
-
-As que são mais comuns de serem utilizadas são *on demand* e *reserved*.
-
-<br />
-
-## Tipos de EC2 instances
+## Tipos de instâncias EC2
 
 Existem cinco tipos principais conforme relacionado na tabela abaixo:
 
@@ -48,28 +40,29 @@ Existem cinco tipos principais conforme relacionado na tabela abaixo:
 | Armazenamento otimizado (*Storage optimized*) <br /> (I3, I3en, D2, H1 ) | - Data warehousing <br />- Logs ou aplicações de processamento de dados |
 | Computação Acelerada (*Accelerated Computing*) <br /> (P3, P2, Inf1, G4, G3, F1) | - Visualização 3D <br />- Machine Learning |
 
-- :open_book: [Documentação Oficial - Tipos de instância do Amazon EC2](https://aws.amazon.com/pt/ec2/instance-types/)
-
 <br />
 
-## Valores de EC2 instances
+## Opções de compra de instâncias do EC2
 
 Em questão de cobrança na AWS você pode optar pelas opções abaixo.
 
 - **Free tier:** 12 meses para utilizar instâncias t2.micro gratuitamente.
 
-- **On Demand:** Após o fechamento do mês é que o valor da cobrança é contabilizado de acordo com a quantidade. O valor cobrado por hora nas máquinas varia de acordo com o local, sistema operacional e tipo da instância.
+- **On Demand:** Ligar ou desligar um *virtual machine* (VM) e pagar por hora/minuto/segundo. A cobrança é feita após utilização.
+- **Reserved:** Contrato com AWS entre 1~3 anos de uma máquina. A cobrança é feita antes da utilização, por exemplo, você irá adquirir um contrato de 3 anos já será pago antecipadamente por todas as máquinas que serão disponibilizados por todo esse prazo.
+- **Spot:** Ou chamados de *Bid*, são para aplicações específicas que tem que ficar ligar por determinado período de tempo (ex: ficarem ligadas somente durante o horário comercial), tem um dimensionamento mais fixo de alocação de recursos (memória, processamento e armazenamento)
+- **Dedicated Hosts:** São máquinas/servidores físicos que são dedicados para você. São principalmente utilizados por exemplos por empresas do setor financeiro ou empresas que devem proteger muito o dados do seu cliente.
 
-- :open_book:[AWS - Preço sob demanda](https://aws.amazon.com/pt/ec2/pricing/on-demand/)
+As que são mais comuns de serem utilizadas são *on demand* e *reserved*.
 
 <br />
 
 ## EBS volume
 
-EBS é um acrônimo para ***Elastic Block Store***. Basicamente é uma virtualização de disco (armazenamento) depois esse volume EBS é anexado ao sistema operacional. 
+EBS é uma sigla para ***Elastic Block Store***. Basicamente é uma virtualização de disco (armazenamento) depois esse volume EBS é anexado ao sistema operacional. 
 Existem **dois tipos de disco**, **HDD** (*Hard Disk Drive*) e **SSD** (*Solid State Drive*). Casos de uso para o EBS é para armazenamento de longo prazo.
 
-Um volume EBS  é uma unidade de rede que você pode anexar suas instâncias enquanto elas são executadas. 
+Um volume EBS  **é uma unidade de rede que você pode anexar** a suas instâncias enquanto elas são executadas. 
 Permite que suas instâncias persistam dados, mesmo após o término. **Só podem ser montados em uma instância por vez (no nível CCP - Certified Cloud Practitioner)**
 Os **volumes EBS estão vinculados a uma zona de disponibilidade específica**.
 
@@ -149,6 +142,9 @@ Existem quatro formas de realizar a escalabilidade horizontal com o ASG. Escalab
 
 Para uma compreensão mais profunda sobre EC2 + ASG recomendo a leitura da documentação oficial, os links estão abaixo.
 
+- [Documentação Oficial - Amazon Elastic Compute Cloud (EC2)](https://docs.aws.amazon.com/pt_br/pt_br/AWSEC2/latest/WindowsGuide/concepts.html)
+- [Tipos de instância do Amazon EC2](https://aws.amazon.com/pt/ec2/instance-types/)
+- [EC2 - Preço sob demanda](https://aws.amazon.com/pt/ec2/pricing/on-demand/)
 - [O que é o Amazon EC2 Auto Scaling?](https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
 - [Opções de Escalabilidade](https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/scaling_plan.html#scaling_typesof)
 
