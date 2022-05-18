@@ -98,6 +98,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco para a cert
   - [SAM](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SAM.md "Serverless Application Model")  
   - [SNS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SNS.md "Tópicos de mensagens gerenciadas do SNS para Pub/Sub")    
   - [SQS](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/SQS.md "Filas de mensagens gerenciadas pelo SQS")     
+  - [VPC](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/VPC.md "Recursos de nuvem isolados")
   - [X-Ray](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/X-Ray.md "Analise e depure seus aplicativos")
 
 - :memo: [Licença](#memo-licença)
