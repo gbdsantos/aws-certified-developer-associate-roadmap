@@ -25,7 +25,7 @@
 
 ## Introdução
 
-Amazon API Gateway é um serviço da AWS para criar APIs REST e Websocket, também publicar, monitorar e proteger suas APIs.
+Amazon API Gateway é um serviço da AWS para criar, publicar, monitorar e proteger APIs REST e Websocket.
 
 <br />
 
